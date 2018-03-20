@@ -158,6 +158,7 @@ The following files will be saved in the folder with same name of the experiment
 - One or more pictures including (top to bottom): original pre-processed image, ground truth, prediction
 - Report on the performance
 
+![](test/test_Original_GroundTruth_Prediction0.png)
 All the results are referred only to the pixels belonging to the FOV, selected by the masks included in the DRIVE database
 
 
