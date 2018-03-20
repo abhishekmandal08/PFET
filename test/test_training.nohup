@@ -1,6 +1,0 @@
-Using TensorFlow backend.
-2018-03-18 22:14:33.250875: I tensorflow/core/platform/cpu_feature_guard.cc:137] Your CPU supports instructions that this TensorFlow binary was not compiled to use: SSE4.1 SSE4.2 AVX AVX2 FMA
-Traceback (most recent call last):
-  File "./src/retinaNN_training.py", line 19, in <module>
-    from keras.utils.visualize_util import plot
-ImportError: No module named visualize_util
